@@ -3,12 +3,17 @@ html {
   height: 100%;
   color: #242423;
   line-height: 1.8;
-  font-family: "Work Sans", Arial, sans-serif;
+ font-family: 'New Rocker', cursive;
+font-family: 'Metal Mania', cursive;
+font-family: 'Rye', cursive;
+font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Eagle Lake', cursive;
+font-family: 'Germania One', cursive;
 }
 
 h1 {
   font-size: 36px;
-  color: white;
+  color: black;
   font-weight: 800;
 }
 
@@ -34,17 +39,17 @@ h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: 'Metal Mania', cursive;
   margin: 10px 0
 }
 
 p {
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: 'eagle lake', cursive;
 }
 
 .bar-color{
-  background-color: #BBBBBC;
-  color: white;
+  background-color: yellowgreen;
+  color: black;
 }
 
 #myNavbar {
@@ -58,29 +63,29 @@ p {
 
 #myNavbar a:hover {
   text-decoration: none;
-  background-color: #BBBBBC;
+  background-color: red;
   color: white;
 }
 
 .nav-change {
-  background-color: white;
+  background-color: red;
 }
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('../img/notebook.jpg');
+  background-image: url('../img/sp00k.jpg');
   min-height: 100%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/leatherrr.jpg');
   min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url('../img/arcade.jpg');
+  background-image: url('../img/denimmmmm.jpeg');
   min-height: 400px;
 }
 
